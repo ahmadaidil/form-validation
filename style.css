@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'arial';
+}
+
+#container {
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+
+#container h1 {
+  text-align: center;
+}
+
+#form-validation {
+  margin: auto;
+  padding-top: 20px;
+  width: 50%;
+  border-radius: 8px;
+  border: 1px solid rgba(0,0,0, .2);
+  outline: none;
+}
+
+#form-validation p {
+  margin-left: 20px;
+}
+
+#form-validation input {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 20px;
+  border-radius: 8px;
+  border: 1px solid rgba(0,0,0, .2);
+  outline: none;
+}
+
+#form-validation input[type=submit] {
+  width: 40%;
+  margin: 20px 200px;
+}
+
+footer h4{
+  margin: 30px 0px;
+  text-align: center;
+}
